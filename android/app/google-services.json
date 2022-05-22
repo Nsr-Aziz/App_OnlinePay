@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "493001260664",
+    "project_id": "online-pay-82945",
+    "storage_bucket": "online-pay-82945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493001260664:android:f7ecdb826849099ef8378d",
+        "android_client_info": {
+          "package_name": "com.example.onlinepay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493001260664-3kls2dpjvtlfki6bm0kol9icqme6rd8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinepay",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "493001260664-soqjotaf7jr6838pfgq4h8n97d0vu78r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNOgdCK7ezY9cnltJQPBU1llC68AgikA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493001260664-soqjotaf7jr6838pfgq4h8n97d0vu78r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
